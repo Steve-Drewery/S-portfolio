@@ -14,9 +14,6 @@ export const Header = () => {
     <div>
       <div className="absolute top-0 text-white z-10 flex justify-between w-full">
         <div className="flex flex-row">
-          <a href="https://www.linkedin.com/in/steve-drewery-b84191234/">
-            <img src="\Images\LinkedIn.svg" width={40} height={0} alt=""></img>
-          </a>
           <p className="m-0 pl-1">© Code By Steve Drewery </p>
         </div>
         <div className="pr-5">

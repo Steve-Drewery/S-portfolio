@@ -42,8 +42,14 @@ export default function Contact() {
           Contact me
         </h2>
       </div>
+      <div className="flex justify-center mt-6">
+        <a href="https://www.linkedin.com/in/steve-drewery-b84191234/">
+          <img src="\Images\LinkedIn.svg" width={40} height={0} alt=""></img>
+        </a>
+      </div>
+
       <form
-        className="mx-auto mt-16 max-w-xl mb-20 sm:mt-20"
+        className="mx-auto max-w-xl mb-20 mt-6"
         ref={form}
         onSubmit={handleSubmit}
       >

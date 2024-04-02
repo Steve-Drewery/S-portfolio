@@ -64,7 +64,7 @@ export const Intro = () => {
         <div />
         <h1
           id="welcome"
-          className="sm:text-9xl text-3xl text-center font-bold text-gray-100 font-spaceGrotesk sm:max-w-m "
+          className="sm:text-9xl text-5xl text-center font-bold text-gray-100 font-spaceGrotesk sm:max-w-m "
         >
           <p>Hi, I'm Steve Drewery</p>
           <p> from Australia.</p>

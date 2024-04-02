@@ -7,7 +7,7 @@ import gsap from "gsap";
 const projects = [
   {
     title: "Portfolio",
-    src: "/Images/background.webp",
+    src: "/Images/portfolio.webp",
     color: "#000000",
     icon: {
       html: "/Images/html.svg",
